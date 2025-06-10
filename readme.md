@@ -12,7 +12,7 @@ Built with:
 
 ## 🎥 Demo
 
-![App Demo](demo/demo.gif)
+![App Demo](natural-language-sql-generator/demo/natural-language-sql-generator_gif.gif)
 
 > A quick look at how you can turn English into SQL and get instant answers from your database!
 
