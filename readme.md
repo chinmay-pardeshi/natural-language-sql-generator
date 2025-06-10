@@ -10,24 +10,32 @@ Built with:
 
 ---
 
+## 🎥 Demo
+
+![App Demo](demo/demo.gif)
+
+> A quick look at how you can turn English into SQL and get instant answers from your database!
+
+---
+
 ## 🚀 Features
 
-- 🔍 Ask questions in plain English
-- 🤖 Auto-generate SQL queries using Gemini
-- 🧪 Execute queries against your database
-- 📊 Display results in a clear, tabular format
-- ⚠️ Error handling for invalid queries
+- 🔍 Ask questions in plain English  
+- 🤖 Auto-generate SQL queries using Gemini  
+- 🧪 Execute queries against your database  
+- 📊 Display results in a clear, tabular format  
+- ⚠️ Error handling for invalid queries  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- Python
-- Streamlit
-- LangChain
-- Google Generative AI (Gemini API)
-- SQLAlchemy & MySQL
-- dotenv
+- Python  
+- Streamlit  
+- LangChain  
+- Google Generative AI (Gemini API)  
+- SQLAlchemy & MySQL  
+- dotenv  
 
 ---
 
