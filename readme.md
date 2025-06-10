@@ -10,11 +10,14 @@ Built with:
 
 ---
 
+
 ## 🎥 Demo
 
-![App Demo](natural-language-sql-generator/demo/natural-language-sql-generator_gif.gif)
+![App Demo](https://github.com/chinmay-pardeshi/speech-to-text-translator/blob/main/Demo/speechtotext-gif.gif)
 
 > A quick look at how you can turn English into SQL and get instant answers from your database!
+
+
 
 ---
 
