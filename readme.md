@@ -13,7 +13,7 @@ Built with:
 
 ## 🎥 Demo
 
-![App Demo](https://github.com/chinmay-pardeshi/speech-to-text-translator/blob/main/Demo/speechtotext-gif.gif)
+![App Demo](https://github.com/chinmay-pardeshi/natural-language-sql-generator/blob/main/demo/natural-language-sql-generator-gif.gif)
 
 > A quick look at how you can turn English into SQL and get instant answers from your database!
 
